@@ -1,6 +1,6 @@
 # Muhammad Umair Azhar
 
-**Senior Software Architect | Full-Stack & AI Systems | Distributed Computing**  
+**Software Architect | Full-Stack & AI Systems | Distributed Computing**  
 Based in Basel, Switzerland  
 
 I specialize in full-stack engineering, AI/LLM integrations, and distributed systems. With 8+ years of experience, I’ve led teams and shipped products across healthtech, blockchain, and SaaS, building platforms that scale to thousands of users.
