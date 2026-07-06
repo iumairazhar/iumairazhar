@@ -1,51 +1,25 @@
 # Muhammad Umair Azhar
 
-**Software Architect | Full-Stack & AI Systems | Distributed Computing**  
-Based in Basel, Switzerland  
+**Software Engineer | Backend & AI Systems**
+Basel, Switzerland
 
-I specialize in full-stack engineering, AI/LLM integrations, and distributed systems. With 8+ years of experience, I’ve led teams and shipped products across healthtech, blockchain, and SaaS, building platforms that scale to thousands of users.
+Backend and AI engineer. I build production apps and APIs in Ruby on Rails, Node.js, and Python, and ship LLM features (RAG, OpenAI, MCP) into real products. [X] years across healthtech and SaaS.
 
----
+## What I do
+- Backend systems and APIs (Rails, Node.js, Python, FastAPI)
+- AI features: RAG pipelines, OpenAI, MCP servers, vector databases
+- Agentic AI workflows and agent-based coding tools (Claude Code) in day-to-day development
+- Full-stack product work with Next.js and React
+- Cloud and deployment on GCP and Azure, Docker, Kubernetes, CI/CD
 
-## What I Do
-- Design and build full-stack applications (Rails, Node.js, React, Python)  
-- Architect scalable backend systems and APIs  
-- Build AI-powered applications (LLMs, RAG, LangChain, OpenAI APIs)  
-- Develop blockchain-based platforms (EVM, tokenomics, smart contracts)  
-- Deploy cloud-native infrastructure (AWS, GCP, Kubernetes, Docker)  
-- Work on high-performance computing and distributed systems  
-
----
-
-## Tech Stack
-- **Languages:** Ruby, Python, JavaScript/TypeScript, C/C++  
-- **Frameworks:** Ruby on Rails, FastAPI, Next.js/React  
-- **Frontend:** React, Next.js, Tailwind CSS  
-- **Cloud & DevOps:** AWS, GCP, Kubernetes, Docker, CI/CD  
-- **AI/LLM:** LangChain, ChromaDB, RAG pipelines, OpenAI APIs  
-- **Blockchain:** Solidity, Hardhat, EVM chains, tokenomics design  
-- **Databases:** PostgreSQL, MySQL, Redis, ChromaDB  
-
----
-
-## Current Projects
-- [HealthHero](https://github.com/HealthHero) – AI-powered wellness and education platform  
-- [TheGo Project](https://github.com/TheGo-Project) – SmartChain AI ecosystem and tokenized RWA infrastructure  
-
----
-
-## Highlights
-- Accepted into University of Basel MSc Distributed Systems program  
-- Built multiple RAG AI chatbots with authentication, memory, and data ingestion  
-- Designed tokenomics models for blockchain ecosystems with 100K+ users  
-- Hands-on with HPC (MPI, OpenMP, CUDA) for academic and real-world performance projects  
-
----
+## Tech
+- **Languages:** Ruby, Python, JavaScript, TypeScript
+- **Backend:** Rails, Node.js, FastAPI, REST APIs
+- **AI/LLM:** OpenAI, Claude, RAG pipelines, MCP servers, vector databases (ChromaDB), embeddings, agentic workflows
+- **AI dev tools:** Claude Code, agent-based coding workflows
+- **Cloud:** GCP, Azure, Docker, Kubernetes, CI/CD
+- **Databases:** PostgreSQL, Redis, MongoDB, ChromaDB
 
 ## Connect
-- [LinkedIn](https://www.linkedin.com/in/umairazhar)  
-- Email: iumairazhar@gmail.com  
-
----
-
-Always exploring full-stack development, AI, and distributed computing to build the future of intelligent systems.
+- LinkedIn: linkedin.com/in/iumairazhar
+- Email: iumairazhar@gmail.com
