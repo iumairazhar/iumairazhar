@@ -3,7 +3,7 @@
 **Software Engineer | Backend & AI Systems**
 Basel, Switzerland
 
-Backend and AI engineer. I build production apps and APIs in Ruby on Rails, Node.js, and Python, and ship LLM features (RAG, OpenAI, MCP) into real products. [X] years across healthtech and SaaS.
+Backend and AI engineer. I build production apps and APIs in Ruby on Rails, Node.js, and Python, and ship LLM features (RAG, OpenAI, MCP) into real products. 10 years across healthtech and SaaS.
 
 ## What I do
 - Backend systems and APIs (Rails, Node.js, Python, FastAPI)
